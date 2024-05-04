@@ -1,4 +1,5 @@
-# Comparative Analysis of Machine Learning Approaches in Image Classification . Case Study : Kazakhstan Banknote
+# Comparative Analysis of Machine Learning Approaches in Image Classification 
+## Case Study : Kazakhstan Banknote
 
 
 # Supervisor
