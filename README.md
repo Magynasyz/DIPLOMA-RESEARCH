@@ -1,10 +1,10 @@
 # Comparative Analysis of Image Classification Methods
 ## Case Study : Banknote Recognition
 
-# Supervisor
+## Supervisor
 Ualikhan Sadyk - ualikhan.sadyk@sdu.edu.kz
 
-# Team members
+## Team members
 •	Aruzhan Sabitkyzy
 
 •	Nursultan Aden
@@ -13,11 +13,12 @@ Ualikhan Sadyk - ualikhan.sadyk@sdu.edu.kz
 
 •	Akgul Bozshina
 
-# Poster
+## Dataset
+## Poster
 Link to the [presentation]().
 
-# Video 
+## Video 
 
 QR code to the video 
 
-# Technology Stack
+## Technology Stack
