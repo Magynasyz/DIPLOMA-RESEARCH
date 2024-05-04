@@ -1,6 +1,5 @@
-# Comparative Analysis of Machine Learning Approaches in Image Classification 
-## Case Study : Kazakhstan Banknote
-
+# Comparative Analysis of Image Classification Methods
+## Case Study : Banknote Recognition
 
 # Supervisor
 Ualikhan Sadyk - ualikhan.sadyk@sdu.edu.kz
